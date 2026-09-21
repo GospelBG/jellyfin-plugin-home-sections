@@ -134,7 +134,7 @@
   "AdminJellyseerr": "Jellyseerr",
   "AdminJellyseerrInternalUrl": "URL de Jellyseerr (Interna)",
   "AdminJellyseerrInternalUrlDesc": "URL interna de Jellyseerr para las peticiones de API del backend del complemento.",
-  "AdminJellyseerrExternalUrl": "Jellyseerr URL (Externa)",
+  "AdminJellyseerrExternalUrl": "URL de Jellyseerr (Externa)",
   "AdminJellyseerrExternalUrlDesc": "URL externa para los enlaces a Jellyseerr en el frontend. Dejar vacío para usar la URL interna.",
   "AdminJellyseerrApiKey": "Clave API de Jellyseerr",
   "AdminJellyseerrApiKeyDesc": "Clave API de la instancia de Jellyseerr.",
